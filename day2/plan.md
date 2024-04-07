@@ -1,4 +1,4 @@
-<!--  5 - dars | Birinchi dasturni yozish | Tags | YouTube Link -->
+ # 5 - dars | Birinchi dasturni yozish | Tags | YouTube Link
 — yozilgan codelarni browserda ko'rish
 javob:
 Yozilgan kodlarni brauzerda ko'rishning bir nechta usullari mavjud. Ba'zilari yozilgan HTML, CSS, va JavaScript fayllarini brauzerda o'zgarishsiz ko'rishni ta'minlaydi, ba'zilari esa brauzer yoki brauzer kengaytmasi orqali yashirish uchun qo'llaniladi. Quyidagi usullardan biri yoki bir nechta, sizning mahsulotingizni test qilish va yozilgan kodlarning natijasini ko'rish uchun moslashtirilgan bo'lishi mumkin:
@@ -80,7 +80,7 @@ HTML faylning boshlanishi quyidagi ko'rinishda bo'lishi mumkin:
     <title>Document sarlavhasi</title>
   </head>
   <body>
-    <!-- HTML kodlar shu joyda -->
+    HTML kodlar shu joyda
   </body>
 </html>
 ```
@@ -134,7 +134,7 @@ javob:
      </h1>
      ```
 
-<!-- 6 - dars | Formatting tags | YouTube Link -->
+# 6 - dars | Formatting tags | YouTube Link
 
 — Shoirlar uchun tag <pre>
 "Pre tagi" HTML (HyperText Markup Language) tilida matnlar yoki kodlarni konsol yoki faylga yozilgan qilib, ulardagi o'girishlarini saqlash uchun ishlatiladi. "Pre" atamasi "preformatted text" ni ifodalaydi, ya'ni matnni asl ko'rinishida saqlash uchun.
@@ -159,7 +159,8 @@ Bu kodlarni brauzerda ko'rishda, matn "pre" tagi ichida saqlangan asl ko'rinishi
 1. `<b>` tagi:
    - `<b>` (bold) tagi, uning tarkibi qalin ko'rinishga ega bo'lgan matnni belgilaydi.
    - Bu tag qalin yoki bold ko'rinishga ega bo'lgan matnlarni belgilash uchun ishlatiladi, ammo matnning ahamiyatini ta'kidlash uchun emas.
-   # Bu tag brauzer uchun sodda matn ko'rinishini o'zgartiradi, lekin SEO (Search Engine Optimization) va aksariyatlar uchun ahamiyatli emas.
+   # SEO  
+   Bu tag brauzer uchun sodda matn ko'rinishini o'zgartiradi, lekin SEO (Search Engine Optimization) va aksariyatlar uchun ahamiyatli emas.
 
 Misol:
 
@@ -170,7 +171,8 @@ Misol:
 2. `<strong>` tagi:
    - `<strong>` (kuchli) tagi, matnni kuchli ta'kidlash va uni ahamiyatini ta'kidlash uchun ishlatiladi.
    - Bu tag matnning kuchli yoki ahamiyatli bo'lgan qismini belgilaydi. Buning bilan birga, brauzerlar matnni qalin qiladi.
-   # SEO va brauzerlar uchun bu tag matnning ustuvorlik darajasini anglatadi.
+   # SEO 
+   va brauzerlar uchun bu tag matnning ustuvorlik darajasini anglatadi.
 
 Misol:
 
@@ -198,7 +200,8 @@ Misol:
 2. `<em>` tagi:
    - `<em>` (emphasis) tagi, matnni ma'niy ta'kidlash va uning ma'nasini ajratib turadi.
    - Bu tag matnning kursiv (italik) ko'rinishiga olib chiqadi, lekin ularning asosiy maqsadi matnni ma'niy ta'kidlashdir.
-   # SEO (Search Engine Optimization) va brauzerlar uchun `<em>` tagi matnning ustuvorlik darajasini ko'rsatadi.
+   # SEO
+    (Search Engine Optimization) va brauzerlar uchun `<em>` tagi matnning ustuvorlik darajasini ko'rsatadi.
 
 Misol:
 
@@ -256,7 +259,8 @@ Bu kod HTML matndagi "o'chirilgan" so'zni brauzerda o'chirilgan qilib ko'rsatadi
 
 `<del>` tagi
 
-# SEO (Search Engine Optimization) ni ta'minlashda ham muhimdir, chunki brauzerlar o'chirilgan matnni bir nechta so'rov yorlig'ida ehtiyotkorlik qilish uchun foydalanadi.
+# SEO 
+(Search Engine Optimization) ni ta'minlashda ham muhimdir, chunki brauzerlar o'chirilgan matnni bir nechta so'rov yorlig'ida ehtiyotkorlik qilish uchun foydalanadi.
 
 `<ins>` HTML tagi matnga qo'shilgan yangi yoki qo'shilgan ma'lumotlarni belgilash uchun ishlatiladi.
 
@@ -270,7 +274,8 @@ Bu kod HTML matndagi "yangi" so'zni brauzerda qo'shilgan qilib ko'rsatadi. Odatd
 
 `<ins>` tagi
 
-# SEO (Search Engine Optimization) ni ta'minlashda ham muhimdir, chunki brauzerlar qo'shilgan matnni bir nechta so'rov yorlig'ida ehtiyotkorlik qilish uchun foydalanadi.
+# SEO 
+(Search Engine Optimization) ni ta'minlashda ham muhimdir, chunki brauzerlar qo'shilgan matnni bir nechta so'rov yorlig'ida ehtiyotkorlik qilish uchun foydalanadi.
 
 — <sub> va <sup>
 `<sub>` va `<sup>` HTML taglari, matnning pastlik yoki yuqorilik belgilash uchun ishlatiladi.

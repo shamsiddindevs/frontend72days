@@ -136,7 +136,7 @@ javob:
 
 # 6 - dars | Formatting tags | YouTube Link
 
-— Shoirlar uchun tag <pre>
+— Shoirlar uchun tag <pre>shoirlar tagi</pre>
 "Pre tagi" HTML (HyperText Markup Language) tilida matnlar yoki kodlarni konsol yoki faylga yozilgan qilib, ulardagi o'girishlarini saqlash uchun ishlatiladi. "Pre" atamasi "preformatted text" ni ifodalaydi, ya'ni matnni asl ko'rinishida saqlash uchun.
 
 `<pre>` tagi ichidagi matnlar brauzer tomonidan odatiy matn elementlaridan farq qiladi. Masalan, bo'shliq, qatorlar, yoki matndagi bo'sh joylar odatiy matn elementlarida ko'rinmas.
@@ -182,7 +182,7 @@ Misol:
 
 Asosiy farq, `<strong>` tagi matnning ma'nawi kuchini ta'kidlaydi va uni qalin qiladi, `<b>` tagi esa matnni odatiy qalin ko'rinishga o'giradi, ammo ma'noni ta'kidlashda kuchli emas. Agar matnning kuchli bo'lishi, `<strong>` tagidan foydalanish tavsiya etiladi.
 
-##### <i> va <em>
+ <i> va <em>
 
 `<i>` va `<em>` HTML taglari matnning kursiv ko'rinishga o'tkazish uchun ishlatiladi, lekin ulardagi maqsad va ulardagi ma'nolar farq qiladi.
 
